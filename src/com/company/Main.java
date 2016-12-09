@@ -27,4 +27,5 @@ public class Main extends Child{
 
         System.out.println("Оба кота едят");
     }
+
 }

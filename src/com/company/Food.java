@@ -17,4 +17,5 @@ public class Food extends Thread{
 
         System.out.println(this.kot+" : наелся....");
     }
+
 }

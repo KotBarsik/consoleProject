@@ -4,7 +4,7 @@ public class Child {
 
     public static void start (String echo){
         if(echo == "Барсик") {
-            System.out.println("Привет "+echo+" ))");
+            System.out.println(" Привет "+echo+" ))");
         }
         else{
             throw new ArithmeticException("Я не знаю кто такой "+echo);
